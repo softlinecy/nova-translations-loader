@@ -10,8 +10,8 @@
   ],
   "license": "MIT",
   "require": {
-    "php": "^8.2.0",
-    "laravel/framework": "^9.0 || ^10.0 || ^11.0",
+    "php": "^8.2",
+    "laravel/framework": "^v10.0|^v11.0",
     "laravel/nova": "^3.0"
   },
   "autoload": {
